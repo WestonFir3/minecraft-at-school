@@ -7,7 +7,7 @@ how to play Minecraft with friends at school on strict networks (without teacher
  
 once you do that download the EaglercraftX 1.8.8 Offline file here (use any version of 1.8.8 as long as it is 1.8.8 because 1.8.8 has multiplayer and 1.12.2 does not)(you may need to copy the download file from another device to the school computer): https://eaglercraft.com/p/downloads
 
-once you can to the code editor copy this code: [CODE SOON] into the html section of the code editor you choose
+once you do that go to the code editor you chose copy this code: [CODE SOON] into the html section of the code editor you choose
 
 (you may need to press RUN depending on the code editor you used)
 
